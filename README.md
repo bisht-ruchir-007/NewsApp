@@ -15,4 +15,12 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-![](/ScreenShots/Screenshot_20200722-120148.jpg)
+## Home Screen (General News + Categories)
+<img src="/ScreenShots/Screenshot_20200722-120148.jpg" width="500" height="1000" >
+
+## Categorical News
+<img src="/ScreenShots/Screenshot_20200722-120200.jpg" width="500" height="1000" >
+
+## Web View in Flutter App
+<img src="/ScreenShots/Screenshot_20200722-120210.jpg" width="500" height="1000" >
+
